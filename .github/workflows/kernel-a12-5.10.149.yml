@@ -34,7 +34,7 @@ jobs:
       matrix:
         include:
         # - sub_level: "149"
-        #   os_patch_level: "2022-12"
+        #   os_patch_level: "2023-01"
         #   revision: "r11"
         - sub_level: "168"
           os_patch_level: "2023-04"
